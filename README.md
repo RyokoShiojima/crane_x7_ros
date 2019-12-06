@@ -1,7 +1,6 @@
-# うんこを投げたい場合はbranchをunkoに移動してください
+# うんこを投げたい場合は以下のページに移動してください
 
-unkoのブランチはこちらです。  
-[https://github.com/RyokoShiojima/crane_x7_ros/tree/unko](https://github.com/RyokoShiojima/crane_x7_ros/tree/unko)
+[https://github.com/RyokoShiojima/crane_x7_ros/tree/unko/crane_x7_examples](https://github.com/RyokoShiojima/crane_x7_ros/tree/unko/crane_x7_examples)
 
 
 # crane_x7_ros
