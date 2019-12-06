@@ -1,10 +1,8 @@
-# うんこを投げたい場合はbranchをうんこに移動してください
+# うんこを投げたい場合はbranchをunkoに移動してください
 
-## 移動方法
+unkoのブランチはこちらです。  
+[unko](https://github.com/RyokoShiojima/crane_x7_ros/unko)
 
-```sh
-git checkout unko
-```
 
 # crane_x7_ros
 
