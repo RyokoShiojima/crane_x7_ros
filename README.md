@@ -1,8 +1,3 @@
-# うんこを投げたい場合は以下のページに移動してください
-
-[https://github.com/RyokoShiojima/crane_x7_ros/tree/unko/crane_x7_examples](https://github.com/RyokoShiojima/crane_x7_ros/tree/unko/crane_x7_examples)
-
-
 # crane_x7_ros
 
 [![Build Status](https://travis-ci.org/rt-net/crane_x7_ros.svg?branch=master)](https://travis-ci.org/rt-net/crane_x7_ros)
